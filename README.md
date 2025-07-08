@@ -1,7 +1,3 @@
-# My-PortfolioHere's a **professional and elegant** summary version of your `README.md` file with icons, structure, and clear formatting:
-
----
-
 # 🌐 My Portfolio
 
 > A modern, interactive portfolio showcasing creative projects, skills, and experience — designed with smooth animations and elegant visuals.
